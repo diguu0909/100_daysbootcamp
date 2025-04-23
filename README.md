@@ -1,43 +1,70 @@
-# Tip Calculator
+# 🐍🚀 100 Days of Python Bootcamp Journey
 
-This is a simple Tip Calculator app made with [your programming language, e.g., Python or JavaScript].
-
-## What it does
-
-- Helps you quickly calculate the tip amount for your bill.
-- Shows the total amount (bill + tip).
-- Easy to use and mobile-friendly.
-
-## How to use
-
-1. Enter your bill amount.
-2. Enter the tip percentage you want to give.
-3. Click **Calculate** to see the tip and total amount!
-
-## Example
-
-- Bill Amount: ₹500
-- Tip Percentage: 10%
-- Tip: ₹50
-- Total: ₹550
-
-## Features
-
-- Clean and simple UI
-- Fast calculation
-- Accurate results
+> ✨ *"Consistency unlocks the doors to mastery."* ✨
 
 ---
 
-Feel free to use or customize this for your project!
+## 🧠 About This Journey
+
+Welcome to my **_100 Days of Python_** challenge!  
+Over the next 100 days, I’ll be **building awesome projects**, mastering Python fundamentals, and creating a coding habit for life.
+
+> 🔥 _One day at a time, one project at a time, one step closer to mastery._
 
 ---
 
-If you want, I can also help you write a *fancier* README where we add:
-- A project image (screenshot)
-- A live demo link (if you host it)
-- Some badges (like "Built with Python" badge)
+## 🎯 My Mission
 
-**Would you like me to help you make a more advanced README too?**  
-(Only if you want to make it look even cooler!)  
-Tell me!
+- ✅ Code every day for **100 Days**.
+- 🛠️ Build real-world **Python Projects**.
+- 🧩 Strengthen **Core Skills** and explore **Advanced Concepts**.
+
+---
+
+## 📅 Projects Built
+
+| 🗓️ Day  | 🚀 Project Name               | 🛠️ Status    |
+|:-------:|:------------------------------|:------------:|
+| **Day 1** | 🎸 Band Name Generator         | ✅ Completed  |
+| **Day 2** | 🚧 _Coming Soon_               | 🔄 Ongoing    |
+| **...**  | 🔥 _..._                        | 🔄 Ongoing    |
+| **Day 100** | 🎯 Final Project             | ⏳ Upcoming   |
+
+> _I will only mention the projects I build._
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚡ **Python 3.11+**
+- 🎨 **Tkinter** (GUI Applications)
+- 🌐 **Flask** (Web Development)
+- 📊 **Pandas, NumPy** (Data Science)
+- ⚙️ **APIs, Web Scraping, Automation**
+
+---
+
+## 🧩 Project Highlights (Planned)
+
+- 🔐 Password Manager
+- ✅ Habit Tracker
+- 🎮 Breakout Game
+- 🏆 Capstone Projects
+- 🤖 AI & Automation Tools
+
+---
+
+## 📂 Repository Structure
+
+```plaintext
+/100-days-python-bootcamp
+├── day-01-band-name-generator
+│   ├── main.py
+│   └── README.md
+├── day-02-<project-name>
+│   ├── main.py
+│   └── README.md
+├── ...
+└── day-100-final-project
+    ├── app.py
+    └── README.md
