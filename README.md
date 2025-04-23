@@ -68,3 +68,6 @@ Over the next 100 days, I’ll be **building awesome projects**, mastering Pytho
 └── day-100-final-project
     ├── app.py
     └── README.md
+-------
+## Author
+- [ Digendra ](https://github.com/your-username)
