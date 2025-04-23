@@ -6,3 +6,5 @@ name = input("what's your name? ")
 len(name)
 print(len(name))
 print("helloe")
+print("i am learning github")
+
