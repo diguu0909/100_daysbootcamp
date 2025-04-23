@@ -25,7 +25,7 @@ Over the next 100 days, I’ll be **building awesome projects**, mastering Pytho
 
 | 🗓️ Day  | 🚀 Project Name               | 🛠️ Status    |
 |:-------:|:------------------------------|:------------:|
-| **Day 1** | 🎸 Band Name Generator         | ✅ Completed  |
+| **Day 1** | 💁‍♀️  Tip_calculator             | ✅ Completed  |
 | **Day 2** | 🚧 _Coming Soon_               | 🔄 Ongoing    |
 | **...**  | 🔥 _..._                        | 🔄 Ongoing    |
 | **Day 100** | 🎯 Final Project             | ⏳ Upcoming   |
