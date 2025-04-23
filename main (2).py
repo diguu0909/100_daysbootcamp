@@ -29,3 +29,5 @@ print("hello"+'input("whats your name ?")')
 
 #different 
 print("hellow"+input("what's your name?  "))
+
+print("hello")
