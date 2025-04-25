@@ -9,7 +9,7 @@ Y=float(height)
 
 bmi= str(X/Y**2)
 
-# we need to convert x/y**2 in str because we can't cacenate integer with string see next step'
+# we need to convert x/y**2 in str because we can't cacenate float  with string see next step'
 
 print("Your body mass index(bmi) is = " +bmi)
 
