@@ -1,4 +1,4 @@
-# BMI 2.0
+ # BMI 2.0
 
 height = float(input("Enter your height in meters: "))
 weight = float(input("Enter your weight in kg: "))
